@@ -4,6 +4,6 @@
 
 ### FROM LTS
 
-1- Write Only The Odd Numbers.
-2- Count Of Repeated Odd Numbers.
-3- The Largest Number Formed From All Odd Numbers.
+1. Write Only The Odd Numbers.
+2. Count Of Repeated Odd Numbers.
+3. The Largest Number Formed From All Odd Numbers.
